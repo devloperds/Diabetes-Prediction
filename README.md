@@ -12,6 +12,7 @@ Real-world impact: Early diabetes detection can reduce complication risks by up 
 
 🔍 Key Insights from EDA
 Our exploratory analysis revealed:
+
 1.Critical Predictors:
 Glucose levels (ρ = 0.47)
 BMI (ρ = 0.29)
@@ -33,5 +34,4 @@ Suggest enhancements
 Submit pull requests
 Improve documentation
 
-📜 License
-MIT License - See LICENSE.md for details.
+
