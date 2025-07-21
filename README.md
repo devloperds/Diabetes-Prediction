@@ -26,13 +26,6 @@ Age (ρ = 0.24)
 Patients with BMI > 30 had 3.5x higher diabetes incidence
 Glucose levels < 100 mg/dL rarely resulted in positive diagnoses
 
-🏆 Model Performance
-Algorithm	    Accuracy   Precision   Recall   F1-Score
-Random Forest  	77.1%	       0.79   	0.76	  0.77
-XGBoost	        75.0%     	 0.76   	0.73	  0.74
-Neural Network	76.8%	       0.78   	0.75	  0.76
-Naive Bayes	    77.1%	       0.78 	  0.77    0.77
-
 🤝 How to Contribute
 We welcome contributions! Here's how:
 Report bugs via GitHub Issues
