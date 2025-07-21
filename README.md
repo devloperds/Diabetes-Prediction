@@ -29,9 +29,9 @@ Glucose levels < 100 mg/dL rarely resulted in positive diagnoses
 
 🤝 How to Contribute
 We welcome contributions! Here's how:
-Report bugs via GitHub Issues
-Suggest enhancements
-Submit pull requests
+Report bugs via GitHub Issues,
+Suggest enhancements,
+Submit pull requests and
 Improve documentation
 
 
